@@ -8,7 +8,7 @@
 * `stats.py`: A modified version of `tester.py` that only outputs the runtimes and the score on one line
 * `showmaze.py`: This script can be used to create a visual demonstration of what a maze looks like. It has been provided with the starter code
 * `test_maze_0{1,2,3}.txt`: These files provide three sample mazes upon which to test the robot. They have been provided with the starter code
-test_maze_04.txt: The 12x12 maze which is designed by myself for testing the robustness of my robot.
+* test_maze_04.txt: Additional 12x12 maze to test the robustness of the robot
 * `Report.pdf`: The final report describing my work on this capstone project
 
 ## Commands
